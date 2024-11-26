@@ -35,8 +35,4 @@
 	},
 	"engines": {
 		"node": "22"
-	},
-	"dependencies": {
-		"ci": "^2.3.0"
-	}
 }
